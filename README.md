@@ -1,5 +1,5 @@
 # Chatbot_using_Langchain_with_memory
-# prompt: i want to push this colab file in my github . Can you give a readme file which describes this project ?
+
 
 # LangChain Google Gemini Chatbot
 
